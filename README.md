@@ -1,1 +1,2 @@
-# eecs_731_hw_project2
+# To be, or not to be
+Classy Shakespeare plays and players
